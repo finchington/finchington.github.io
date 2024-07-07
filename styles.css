@@ -12,7 +12,9 @@
   text-align: center;
 }
 body {
-  background-color: #ffbf80;
+  background-image: url (https://finchington.github.io/modern.jpg);
+  padding: 20px;
+  font-family: sans-serif
 }
 .nav {
     border: 1px solid #ccc;
@@ -30,4 +32,12 @@ body {
 .nav a {
     display: inline-block; /* « Last bit of magic. */
     padding: 10px;
+}
+.page {
+  width: 80%;
+  background-color: #ffbf80
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
 }
