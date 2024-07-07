@@ -12,7 +12,7 @@
   text-align: center;
 }
 body {
-  background-image: url (https://github.com/finchington/finchington.github.io/blob/68c23ddacc9da409f51dd63eed8f599d837e373d/modern.jpeg);
+  background-image: url (https://finchington.github.io/modern.jpeg);
   padding: 20px;
   font-family: sans-serif
 }
@@ -35,4 +35,5 @@ body {
 }
 .page {
   background-color: #ffbf80;
+  width: 80%;
 }
