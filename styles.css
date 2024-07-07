@@ -26,3 +26,9 @@ ul {
   width: auto;
   float: left;
 }
+li{
+  display: inline-block;
+  padding: 14px 16px;
+  width: auto;
+  float: left;
+}
