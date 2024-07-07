@@ -17,8 +17,8 @@ body {
 .topnav {
   background-color; #333
   overflow: hidden;
-  margin-left: 30%;
-  margin-right: 30%;
+  width: 100%;
+  text-align: center;
 }
 .topnav a {
   float: left;
