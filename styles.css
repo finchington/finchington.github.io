@@ -17,3 +17,8 @@ body {
 nav {
   text-align: center;
 }
+ul {
+  list-style: none;
+  display: flex
+  text-align: center
+}
