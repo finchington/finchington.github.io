@@ -11,7 +11,9 @@
 .center {
   text-align: center;
 }
-.center ul {
+body {
+  background-color: #ffbf80;
+  nav ul {
   list-style: none;
   display: inline-block;
   text-align: center;
@@ -19,6 +21,4 @@
   padding: 14px 16px;
   width: auto;
   float: left;
-}
-body {
-  background-color: #ffbf80;
+  }
