@@ -14,11 +14,20 @@
 body {
   background-color: #ffbf80;
 }
-  ul {
-  list-style: none;
-  display: inline-block;
-  }
-div {
-  width: 100%;
-  text-align: center;
+.nav {
+    border: 1px solid #ccc;
+    border-width: 1px 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* « The magic. */
+}
+
+.nav li {
+    display: inline; /* « More magic. */
+}
+
+.nav a {
+    display: inline-block; /* « Last bit of magic. */
+    padding: 10px;
 }
