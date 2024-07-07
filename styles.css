@@ -14,7 +14,7 @@
 body {
   background-color: #ffbf80;
 }
-  nav ul {
+  .nav ul {
   list-style: none;
   display: inline-block;
   text-align: center;
