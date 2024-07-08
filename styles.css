@@ -55,7 +55,7 @@ body {
   background: url(menu.png) no-repeat left center;
   padding: 10px 0 10px 50px;
 }
-input #Info {
+input#Info {
     display: none;
 }
 header h1 {
