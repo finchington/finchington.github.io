@@ -42,17 +42,13 @@ body {
     padding: 0 0 0 50px;
 }
 .infobox {
-    background-color: rgb(255, 255, 255);
-    padding: 0px 30px;
-    border-bottom: 3px solid #CDE700;
-    box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
 }
 .infobox label {
   font-family: sans-serif;
   font-size: 56px;
   display: block;
   cursor: pointer;
-  background: url(menu.png) no-repeat left center;
+  background: url(infobox.png) no-repeat left center;
   padding: 10px 0 10px 50px;
 }
 input#menu {
