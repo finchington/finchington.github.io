@@ -60,7 +60,8 @@ header h1 {
   text-align: center;
 }
 input:checked ~ label {
-    background-image: url(https://finchington.github.io/infobutton.png);
-}input:checked ~ .menu-content {
+    background-image: url(https://finchington.github.ioinfobutton.png);
+}
+input:checked ~ .menu-content {
     max-height: 100%;
 }
