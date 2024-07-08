@@ -63,7 +63,7 @@ header h1 {
   text-align: center;
 }
 input:checked ~ label {
-    background-image: url(https://finchington.github.io/infobuttonopen.png);
+    background: url(https://finchington.github.io/infobuttonopen.png);
   background-repeat: no-repeat;
 }
 input:checked ~ .menu-content {
