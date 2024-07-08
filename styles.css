@@ -53,6 +53,7 @@ body {
   background: url(https://finchington.github.io/infobutton.png);
   background-repeat: no-repeat;
   background-position: left center;
+  background-size: 56px;
   padding: 10px 0 10px 50px;
 }
 input#menu {
@@ -62,7 +63,7 @@ header h1 {
   text-align: center;
 }
 input:checked ~ label {
-    background-image: url(https://finchington.github.io/infobutton.png);
+    background-image: url(https://finchington.github.io/infobuttonopen.png);
   background-repeat: no-repeat;
 }
 input:checked ~ .menu-content {
