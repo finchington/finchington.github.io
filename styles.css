@@ -3,7 +3,7 @@
 }
 body {
   background-image: url(https://finchington.github.io/modern.jpg);
-  background-size: auto;
+  background-size: cover;
   padding: 20px;
   font-family: sans-serif
 }
