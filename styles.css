@@ -41,13 +41,13 @@ body {
     font-family: sans-serif; 
     padding: 0 0 0 50px;
 }
-.Info {
+.infobox {
     background-color: rgb(255, 255, 255);
     padding: 0px 30px;
     border-bottom: 3px solid #CDE700;
     box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
 }
-.Info label {
+.infobox label {
   font-family: sans-serif;
   font-size: 56px;
   display: block;
