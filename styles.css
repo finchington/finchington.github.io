@@ -48,7 +48,7 @@ body {
   font-size: 56px;
   display: block;
   cursor: pointer;
-  background: url(https://finchington.github.io/infoutton.png);
+  background: image url(https://finchington.github.io/infoutton.png);
   padding: 10px 0 10px 50px;
 }
 input#menu {
