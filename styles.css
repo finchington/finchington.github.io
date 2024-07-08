@@ -5,6 +5,7 @@ body {
   background-image: url(https://finchington.github.io/modern.jpg);
   background-size: 100%;
   background-attachment: fixed;
+  overflow: auto;
   background-repeat: no-repeat;
   padding: 20px;
   font-family: sans-serif
