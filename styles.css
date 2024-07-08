@@ -48,9 +48,6 @@ body {
     border-bottom: 3px solid #CDE700;
     box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
 }
-#menu {
-  text-align: right;
-}
 header h1 {
   text-align: center;
 }
