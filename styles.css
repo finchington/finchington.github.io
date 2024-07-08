@@ -50,8 +50,9 @@ body {
   font-size: 56px;
   display: block;
   cursor: pointer;
-  background: url(https://finchington.github.io/infobutton.png) no-repeat left center;
+  background: url(https://finchington.github.io/infobutton.png)
   background-repeat: no-repeat;
+  background-position: left center;
   padding: 10px 0 10px 50px;
 }
 input#menu {
