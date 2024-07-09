@@ -1,0 +1,72 @@
+.center {
+  text-align: center;
+}
+body {
+  background-image: url(https://finchington.github.io/images/backdrops/modern.jpg);
+  background-size: 100%;
+  min-height: 100%;
+  background-attachment: fixed;
+  overflow: auto;
+  background-repeat: no-repeat;
+  padding: 20px;
+  font-family: sans-serif
+}
+.nav {
+    border: 1px solid #ccc;
+    border-width: 1px 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* « The magic. */
+}
+
+.nav li {
+    display: inline; /* « More magic. */
+}
+
+.nav a {
+    display: inline-block; /* « Last bit of magic. */
+    padding: 10px;
+}
+.page {
+  background-color: #ffbf80;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 0px;
+  padding: 20px;
+}
+.menu-content {
+    max-height: 0;
+    overflow: hidden;
+    font-family: sans-serif; 
+    padding: 0 0 0 50px;
+}
+.infobox {
+}
+.infobox label {
+  font-family: sans-serif;
+  font-size: 30px;
+  display: block;
+  cursor: pointer;
+  background: url(https://finchington.github.io/images/infobutton.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding: 10px 0 10px 50px;
+}
+input#menu {
+    display: none;
+}
+header h1 {
+  text-align: center;
+}
+input:checked ~ label {
+    background: url(https://finchington.github.io/images/infobuttonopen.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding: 10px 0 10px 50px;
+}
+input:checked ~ .menu-content {
+    max-height: 100%;
+}
