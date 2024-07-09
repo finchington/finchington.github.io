@@ -50,7 +50,7 @@ body {
   font-size: 30px;
   display: block;
   cursor: pointer;
-  background: url(https://finchington.github.io/infobutton.png);
+  background: url(https://finchington.github.io/images/infobutton.png);
   background-repeat: no-repeat;
   background-position: left center;
   padding: 10px 0 10px 50px;
@@ -62,7 +62,7 @@ header h1 {
   text-align: center;
 }
 input:checked ~ label {
-    background: url(https://finchington.github.io/infobuttonopen.png);
+    background: url(https://finchington.github.io/images/infobuttonopen.png);
     background-repeat: no-repeat;
     background-position: left center;
     padding: 10px 0 10px 50px;
