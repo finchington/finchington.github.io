@@ -59,6 +59,7 @@ input:checked ~ label {
     background-position: left center;
     padding: 10px 0 10px 50px;
 }
+
 input:checked ~ .menu-content {
     max-height: 100%;
 }
