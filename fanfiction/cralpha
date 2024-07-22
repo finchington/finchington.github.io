@@ -1,0 +1,375 @@
+>CREATE SUBDIR "Personal_TL"
+
+STRING DETECTED: PRINTING CUSTOM PROMPT FROM USER:LabAdmin
+
+Subdirectories marked with the Personal tag are for Researcher's private logs. The Lab will never access files in a Personal tag subdirectory. Any information to be shared with the Lab *must* be stored in Official subdirectories. Do you understand and wish to continue?
+
+
+>Y
+
+NEW SUBDIR: Personal_TL
+>CREATE LOG "Diary_TL" IN SUBDIR "Personal_TL"
+
+NEW LOG IN Personal_TL: Diary_TL
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+
+BEGIN LOG ENTRY; TYPE ">COMMIT" TO FINISH
+
+
+
+Day 0
+
+
+
+Don't mind me, computer. I'm just writing something so the Professor can see that I know how to work in the system. I'll be using this first generation PC for a while, if all goes according to plan, so it's important that I show I know how to type in archaic computer-speak. Though, since I've got the logs open, maybe I should actually write something about myself.
+
+
+My name is Theo Larch. I recently completed my education and I'm preparing to step into my first real job as a Junior Pokemon Researcher. I'm gonna be honest, since it's just you and me, computer. I'm actually more than a little bit nervous. Most of my colleagues are off to proper Labs, where they'll be spending the bulk of their time indoors, tinkering with diagnostic equipment and stuff. Me? I'm going to be cleaning and maintaining the new Patias Nature Reserve.
+
+ 
+It's going to be a lot of drudgery, from what I've been told. A lot of lonely, boring drudgery. The place used to be a settlement, one that was entirely run by Team Terror, but they were kicked out of that place by the League Champion a long time ago, so now it's nothing more than a bunch of half-ruined buildings. Apparently, wild Pokemon have already set up in and around it, and it's my job to make sure the place is safe. And, also to collect data on the Pokemon themselves, naturally.
+
+
+The job itself is actually a little odd. The Professor isn't even sending me out with a partner Pokemon. She says she's going for "minimal ecosystem disruption." You know, beyond what I'm going to be doing to the buildings and detritus around the Reserve. And all the equipment I'm taking with me. I've been assured I'll have every means of keeping myself safe, but at the same tim
+
+
+Sorry, that was the Professor, checking in on me. Looks like I'll have to save what I'm doing. I'll talk to you again soon. Probably. Assuming I don't chicken out.
+
+ >COMMIT
+
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+BEGIN LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+
+Day 1? (It's been like a week...)
+
+
+The past few days have been pretty much what you'd expect from a new job. Lots of crash courses, lessons, reviews and testing. I sprayed myself with Repel so many times, I'm pretty sure I could put off a Pokemon just by sweating hard enough. We went over the basics of fieldcraft, all the stuff I learned when I was ten, when going on "the Pokemon journey" was an option. Surprisingly, years of higher education haven't drilled all that out of my head; I was setting up tents and campfires without any hesitation, and with only a bare minimum of embarrassing incidents.
+
+
+Then, of course, came the journey itself. Professor Redwood's Dragonite was a gentle and understanding beast, patient even as I was strapped down. They said it was because I wasn't trained in riding fliers, but honestly I think it was just in case I passed out. It almost happened. I have never gone as fast as I did on the back of that dopey dragon. I know he was holding back, for my sake. Even the Professor seemed a bit impatient, with how fast we were going. Still, I think I saw Mew, for a second. 
+
+
+We made landfall on a small ridge, overlooking the abandoned town. There, I was led to a cleverly hidden little cabin, up against the mountain face. Well, I say "cabin." Really it was more like a closet with a bed in it, a tucked away latrine, and enough space carved out to hold the PC I'm currently typing on. I asked her where I could store my effects. Her response was something along the lines of "keep them in your bag and tuck it under the cot. We use the PC's item storage and transfer feature for everything else."
+
+ 
+I didn't have any more questions after that. As you would expect, it was only after she had hopped onto her Dragonite and was a rapidly vanishing dot on the horizon that I had anything else to ask. Probably for the better. It would have been beyond embarrassing to ask about when they were going to come around and empty the latrine, especially if it meant shouting it at her in broad daylight. That could probably wait. Probably.
+
+
+After taking a moment to put away my things, I decided to take a look outside, at where I am going to be spending the next however long I am able to work here. The "town" that the new Reserve is built around was no doubt an ugly and ramshackle affair, even before half the buildings were demolished by rampaging Metagross and the rest was left to be reclaimed by nature. Team Terror had an anarchic approach to everything they did. Apparently that included construction projects. Even from all the way up at the top of the ridge, I could practically smell the tetanus from exposed nails and sloppily cobbled together structures, ostensibly meant to be walls. A roof collapsed, even while I was looking at it, sending a family of small Pokemon fleeing in all directions. Proof that my job was necessary, sure, but it certainly caused me no amount of happiness to remember that I'd be among those death-traps, soon.
+
+ 
+At the very least, I wouldn't be dealing with any of that, on my first day. For the next little bit, I prepared my equipment and struggled to move about in the cramped confines of my little room. How many days is it going to be before I crack my elbow against one of the stone walls? My money's on three, but I don't have a lot of money to bet. Junior Researchers aren't exactly well paid, after all. Tomorrow, I begin my first job for the Lab. Wish me luck, unthinking machine.
+
+>COMMIT
+
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+BEGIN LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+
+Day 2
+
+
+I was wrong on two fronts. Firstly, it only took me two days. Second, it was my head that cracked against the top of the little recess, they had carved for the cot I woke up on, not my elbow. This policy of "minimal disruption" is going to be the death of me.
+
+
+Today, I started the first of my main responsibilities. After spraying myself down with an amount of Repel that almost made me sick, I went down the mountain path into the Reserve. I had with me a Bag, several tools of destruction, and a device the Professor just called the "whistler." My job? To go down to those Team Terror deathtraps, and turn them into something slightly less dangerous.
+
+ 
+The first few buildings would be easy. Most of the more blasted out structures were obviously abandoned, so there was no real need to check them for signs that Pokemon had already started nests in them. Which was good, because the moment I started to get close, a small family of Pachirisu decided they were done playing in the ruins, and moved to get away from my smelly self, as soon as humanly possible. The inside of the structure was all splintered wood and exposed nails, covered in grunge and just waiting for some hapless Pokemon to accidentally cut themselves. For a moment, I considered whether this was the best place to start. Then, remembering I had no one around to tell me otherwise, I hefted my sledgehammer and got to work.
+
+
+Knocking down the large pieces is probably the part of the job I'm going to hate the most. I spent several years learning science in a classroom, and now I spend my days doing hard labor out in the open wilderness. Second to that is handling a bunch of sharp, awkward bits of wood and metal. Even with thick gloves on, nothing about that is safe. Thanks to the fact that the Bag used the same technology that allows storage and transportation of Pokeballs and other items, I had an almost infinite place to put the pieces. As I understand it, the bits of debris would be sent to a recycling plant, where they would be processed safely. More importantly, they'd be out of this valley, unable to hurt any wild Pokemon that stepped on or scraped against them.
+
+ 
+At one point, I had managed to finally bring down a beam (that at one point probably held something up) but as I looked at the spot it once stood, I noticed something staring at me, on a hill just beyond. It was a Pokemon, quadrupedal, with black and gray fur and a canine body shape. They stared at me with red eyes that simmered with latent aggression, but which also shone with that improbably human intelligence I had come to expect from Pokemon of a higher evolutionary state. Even without consulting the Pokedex, I knew what I was looking at. Mightyena. A Dark-type, and a consummate predator.
+
+
+The creature started to approach. It clearly smelled the Repel, but it was apparently determined to try and get closer, regardless. For a moment, I felt my heart rate spike. Was it going to attack? Immediately, I reached for the device pinned to my breast, and flipped the switch. A keening whistle burst from a speaker on the machine, sending out frequencies of sound that caused the Mightyena to flinch and back away. Its ears flattened against its head, as it began to feel discomfort from noises beyond my range of hearing. Then, it retreated into a thicket, and was gone.
+
+ 
+I took a moment to let out the tense breath I had been holding. It was one thing to train to use these sorts of devices in the Lab. It was an entirely different thing to have to use them in the field, with no partner Pokemon to protect myself if they failed. As I moved to shut the device off, the full scope of this job became apparent. Most Pokemon were relatively harmless, but those few that weren't... I was going to have to keep my wits about me, as I worked.
+
+
+Nothing else notable happened. Dinner was a can of warmed up beans, cooked over a campfire. I learned that the toilet and the shower shared the same cramped space, in the back of the building. The latter did not dispense heated water, and it had a design that shut itself off after only a couple of minutes, to spare the limited supply of water in the tank. After finishing this log, I shall go back to my slightly-too-small cot and rest. Tomorrow promises to be work that's less physically demanding.
+
+>COMMIT
+
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+BEGIN LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+ 
+Day 3
+
+
+My muscles ache from yesterday's exertions. Hopefully, that will get better, over time. In the meantime, I have a slightly less demanding schedule ahead of me.
+
+
+On alternating days, I am supposed to stop clearing the site's structures and instead engage in actual Researcher work. Instead of Repels, I spray myself down with a different chemical substance, one that masks my scent, and I don the Grass Suit. I know it has a technical name, but it's a full body suit that is covered with a bunch of stuff that mimics the look of wild grass. Instead of sledgehammers, I bring binoculars. Instead of gloves, I bring camouflaged clipboards. I still bring the whistler, however. After yesterday's close shave, I have learned the importance of bringing that along.
+
+
+There is a prime spot, just by the river, where the Lab had already gone ahead and set up a blind. Care had to be exercised, walking down to it. Repel and whistlers were good at keeping wild Pokemon from getting any ideas, but at the same time they were obvious and disruptive. As I was, now, there was every chance that I might accidentally sneak up on an unsuspecting Pokemon, and cause them to do something dangerous, in their fear. And so, paradoxically, I was required to be very obvious, for most of my trip. Walking tall, arms swinging, moving as though I knew exactly where I was going and didn't really care what saw me going there. I felt several eyes on me, but it was fine. The Pokemon here were unaccustomed to humans. They would see a creature, larger than their average, covered with a shaggy hide of foliage, with the unconcerned air of a predator. Even the stronger among them would keep their distance, out of concern.
+
+ 
+Once I was near the blind, however, things were more subtle. I checked to see if anything was watching me, and when I was about as sure as I could be, I lifted the flap covering the entrance and crawled my way inside. Then, I waited. If something was following, it might approach. If not, then this was my chance to fade into the background.
+
+
+Sure enough, I wasn't followed. In short order, the river began to become populated, as creatures began to filter in and out. Watching the sunlight play on the water, listening to the lazy chirps of Pidgey as Stantler wandered in to take their drink and Miccino chased each other through the bushes... I admit, it was exactly what I had pictured, when I was told about the posting. Peaceful. Scenic. Idyllic.
+
+
+I took notes of everything I saw. I'm not going to bother repeating it all, here, since I just got done typing out my reports in the Official subdirectory. Most of it was boring. At one point, a pair of Nidoran got into a scuffle, after an exchange of barks that suggested some kind of rivalry. A Kangaskhan lumbered in to wash her child, with all the tender affection I would expect from a human mother. Two Luxio tumbled into the clearing, wrestling each other, playfully. At least, I thought it was play, before one of them climbed atop the other and they began to rut, in the open sunshine. Not that I was uncomfortable to see something like that. It's a natural thing, and Pokemon tend to be especially shameless about such things, as a rule.
+
+ 
+Side Note: I understand why the field notes include a section about mating behaviors. What I don't get is the line item that asks me to count the number of times the male... you know. I've been staring at this sentence for a solid minute, trying to say it. They want me to count the thrusts, diary. Who, exactly, is that information supposed to help? It's so confusing, because it means I had to lay there in the blind, with my eyes glued on the male's backside, as I tried to get a rough number. His blue-black fur mostly hid it, but I still caught the outline on the base of his fluffy balls, from where I was laying. Thankfully, I couldn't quite see the place where he and his mate were joined, since the grass was just tall enough to keep it out of my line of sight.
+
+
+That was way more words than I had intended to write, about Electric Type feline sex. I'm going to change the subject, now.
+
+
+Sometime in the evening, just as I was about to wrap up my reporting, I saw them again. The Mightyena. Perhaps it was a different one, but to be honest, I don't think so. I recognized the glimmer in the eyes, the inscrutable air of questing that suffused its actions. It stalked down to the river, nose first. It had an air of one that was hunting, though when the suitable prey in the region saw them, and fled, it paid them no heed. I watched as it swiveled its head in all directions, nose flaring. It seemed agitated, like whatever it was looking for felt close.
+
+ 
+A series of sharp canine barks, in the distance, made both me and the Mightyena flinch. A pack of Growlithe materialized, out of the bushes on the opposite side of the river, yapping and wagging their tails. The Mightyena snarled at them, before loping away into the woods.
+
+
+I was confused, so much so that I forgot to take notes on them. What was the creature after? If it was the same Mightyena, could they have been trying to find... me? Whatever the reason, they seem very active, with a large territory. I may very well run into them, again. Therefore, I'm giving them the temporary name of "Subject Alpha."
+
+
+Dinner was some suspect canned meat, spread over toast. I burned the first few slices of bread over the campfire. It's going to take some getting used to, this outdoor living.
+
+>COMMIT
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+BEGIN LOG ENTRY, TYPE  ">COMMIT" TO FINISH
+
+
+Day 6
+
+
+I've fallen off of writing these logs. It's only been the predictable nature of my schedule that has let me accurately count how many days it's been, since I first arrived here.
+
+ 
+The work hasn't gotten much easier. The physical work, I mean. Lying in the blind is its own ordeal, but at least it doesn't make my body hurt. After three passes, I managed to finally get a shed cleared out. At least, I think it was supposed to be a shed. Knowing Team Terror, the ramshackle hut could have been anything. The point is, now it's an empty plot of land, ready to accept plants and Pokemon.
+
+
+I spotted Subject Alpha today. They watched me work, again, but this time they kept their distance. I made the mistake of meeting their eyes. They licked their chops, at me. I don't know what that means, but they seemed to scoff, when they saw my hand go for the whistler.
+
+
+I really miss the Internet.
+
+
+Dinner was cold soup. Too tired to cook. Too tired to write, in fact.
+
+>COMMIT
+
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+
+BEGIN LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+Day 9
+
+
+Why do Pokemon mate so damn much?
+
+
+Every blind I go to, I have to keep the matings section of the logs bookmarked. I know that spring tends to be the height of many Pokemon's cycles, but still! I look at two Pokemon, in an otherwise normal interaction, and all of a sudden they are going at it like teenagers. And, of course, because I'm the Researcher, now I'm forced to keep my eye on them, while I count the thrusts. I swear to Mew, diary, I've seen more erect cocks between the legs of Pokemon, in this one week alone, than I did between the legs of humans during my entire stay at college.
+
+ 
+That's right, diary. I've seen two whole cocks, this week.
+
+
+Sorry. I needed that little joke, it seems. I've just been super antsy lately. With Subject Alpha breathing down my neck, and the deconstruction work only getting more tedious, it's becoming increasingly obvious why nobody wanted this post. I've never claimed to be a social butterfly, but after a week of this, I'm starting to miss the sight of people.
+
+
+Today I tried to make something nice for myself. Pastry and foraged berries, combined together into a sort of improvised dessert. It was an absolute mess, and it wasn't even that good. I'm probably going to try it again, however.
+
+>COMMIT
+
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+BEGIN LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+
+Day 13
+
+
+What are the chances that the PC could be used to requisition some personal effects? I'm having trouble sleeping. I've recorded so much mating activity, I've almost forgotten what a naked human looks like. I can't believe the thing I would have missed so much, out here, was the ability to go online and see pictures of naked people.
+
+ 
+I'm only making it worse, for myself. I'm gonna try and just go back to sleep. It's a deconstruction day, tomorrow, and I need my strength.
+
+>COMMIT
+
+LOG COMMITTED
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME
+>APPEND LOG ENTRY "Diary_TL;Personal_TL"
+BEGIN LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+
+It's day 16 or something. I think it's day 16. It was an observation day. Irrelevant. Moving on.
+
+
+Subject Alpha. She's definitely been following me. Today I could have sworn we'd locked eyes, while I was in the blind. How she's been finding me on observation days, I don't know. The stuff I spray myself with is supposed to make me untraceable by scent. If she's following me during the initial forest walk, she's been way too good at hiding from me. I don't know.
+
+
+I was taking notes, marking down behaviors and whatever, and she just... walked into the clearing. Scared off the other Pokemon in the area. And then she started sniffing around. I've been calling Subject Alpha "it," up until this point, but... no, she's definitely a she. I'd gotten plenty of time to confirm it, while she was investigating the area. She paused to lap up some water, and the way she stood, her backside was pointed in my direction. I could see the sunlight reflecting off of her puffy, spade-like vulva. It was visibly inflamed, and that sheen I saw I quickly identified. She was very clearly in heat, and probably at the height of it, no less.
+
+ 
+I don't know what it was, about seeing that, but my body started to react, almost immediately. I was watching her from one of the low openings in the blind, lying on my stomach, and within seconds, I began to feel my member, flexing uselessly against the dirt. I pulled away from the binoculars, shut my eyes, and tried to breathe steadily. When I opened them again, she was still there. Still drinking. Still exposed. Without thinking, I let out a grunt, moving to try and adjust myself so I was no longer trapped.
+
+
+I don't know if I made too much noise, or if she just sensed eyes on her. Suddenly, head and ears flicked up, and she spun around to face in my direction. Her eyes scanned the forest, looking for whoever was around. And then, it happened. Our eyes met. At least, it felt like they did. I might have imagined it. I was only visible out of a hole, smaller than my face, and I was covered in camouflage from the Grass Suit. And yet, even without the binoculars, I could feel the moment our eyes connected. I could feel her gaze, like it had heat and weight. At the time, there had been no doubt in my mind. She knew I was there. I was spotted.
+
+ 
+And yet, nothing happened. She sniffed the air for a moment, her tail thrashed once or twice, and then she turned and began to walk upstream. I spent the rest of the afternoon, hidden in the corner of the blind. I saw nothing, and nothing could see me. The only thing I had to worry about was keeping my breathing under control.
+
+
+That night, I barely ate. My mind wouldn't stop replaying the scene in my head. I wish I could say that I only thought about the danger, but... I don't know. This place is getting to me. I
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+This is stupid. I just tried to let off steam. Get some of these thoughts out of my system. It didn't work. For one thing, the hollow my cot is tucked into is more cramped than a casket. For another, I just couldn't get in the headspace. I tried thinking about the stuff I normally like. Girls in bikinis, dudes in locker rooms, that one girl from Introductory Biology with the cute laugh and the warm smile. It'd work for a second, but then I'd start thinking about two Luxio mating by a riverbed, or some frustrated Stantler bellowing at the woods with half an erection out. Or Subject Alpha. All I've done is made things worse for myself. 
+
+I just don't
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+WELCOME. YOU HAVE UNCOMMITTED PROGRESS ON "Diary_TL;Personal_TL". WOULD YOU LIKE TO CONTINUE?
+
+>Y
+RESUME LOG ENTRY, TYPE ">COMMIT" TO FINISH
+
+ 
+Oh, Sweet Mew, I fucked up. I fucked up badly.
+
+
+I woke up in the middle of the night, in a cold sweat. I had some kind of dream, I don't remember what. All I know is that I woke up so hard, it hurt. I spent a minute staring at it, and I just got so mad. I decided I was going to just deal with it, intrusive thoughts be damned. And I wasn't going to do it, in the cot. Just laying there was starting to give me a panic attack.
+
+
+The point is, I found myself outside. There's a rock on the cliff face, overlooking the nature reserve, that I had sat on multiple times before. I had never done it in the middle of the night. I had always worn pants when I sat there, as well. Honestly, if the circumstances had been any different, it almost would have been a unique treat. Too bad I had other things on my mind.
+
+
+I walked out onto the cliff, naked from the waist down. The air was cool, and I was definitely aware of what I was doing. But, who was going to stop me? I was the only person around, for miles, and it's not like I was going to report my private activities to the Lab. To be honest, it was more than a little exhilarating. I barely needed my runaway imagination to keep me hard. I only had to feel the moonlight on my skin. I only needed to think about the fact that, in some absolutely improbable series of circumstances, some inordinately lost hiker might be able to see me.
+
+ 
+This didn't help my thoughts from turning to Subject Alpha. As I said, it was a lost cause. The sight of her inflamed sex had been all but burned into my mind. At this point, however, I was beyond caring. I just wanted to get off. I shivered, when my hand first wrapped around my member. It had been far too long, since I had put my hand down there. Back at home, with unlimited access to the internet, it had been a regular occurrence. Perhaps a bit too regular. Not like it was a problem or anything. Like, it's totally natural to do it as often as I did, especially in college where
+
+
+Okay. Fuck. Getting off topic.
+
+
+The point is, I was pretty far along. Leaning back, mind filled with images of glistening dark vulva, I'm pretty sure I would have been going over the edge, in just another moment. But then... I heard something behind me. It sounded like the strangled chuckles of an old crone, distorted and inhuman. My blood froze, as I turned to try and find what was making it. I saw a shape, slinking between some rocks, heading up the hill. I couldn't make it out, but it was waist-height. Pokemon shaped. I saw the glint of red eyes, in the moonlight. I cursed, to myself. I didn't put on Repel. My whistler was back in my cabin. The creature stared directly at me. Not at my eyes. Further down.
+
+ 
+It growled.
+
+
+
+The rest was a bit of a blur. I ran, obviously. I ran harder than I ever had before. I didn't dare look behind me. I knew I was being pursued. I tried to wrench open the door, hide in the cabin. Whoever designed the door to look like the mountain face apparently also decided to make it heavy as stone, for reasons that will never make sense to me. I only managed to get it open, before something solid and furry slammed into my backside, throwing both me and the creature inside. I struggled with it for a while, but it was too powerful. I was only able to turn onto my back, before I felt a pair of paws against my shoulders, and I was pinned down. I stared up at my pursuer.
+
+
+It was Subject Alpha.
+
+
+The Mightyena bared her fangs at me, but something about my expression must have suitably signaled submission to her, because shortly after, she seemed to recognize that she had me. I saw the corner of her lip curl up. Was she... smiling at me? I must have imagined that. She quickly grew bored of looking at my face. Instead, she turned to look behind her, to the spot just behind her rump. For a moment, I didn't understand what she was looking at, but then an errant breeze came in through the door. I realized that, in spite of everything going on, I was somehow still hard. She turned to look back at me, for a moment. I felt the color rise to my cheeks.
+
+ 
+The air around my member got warmer, and that was when I realized she was lowering her hindquarters onto me. Soon I felt something against me. Wet. Hot. Deceptively heavy. Subject Alpha's tongue rolled out of her mouth, the hot puffs from her panting muzzle causing my eyes to water. Her canine vulva squelched softly, as it pressed and parted around my length. It felt, for all the world, like she was trying to determine its measure, by feeling alone. There was a glint in her eyes. Predatory. Victorious. The spine-tingling assurance of someone who had finally found what they wanted.
+
+
+In truth, I think it was the eyes that did it. Sure, I was afraid of what might happen, if I ran afoul of those jaws. But my salvation was at hand. The whistler was clipped to the belt of my pants, which were on the ground right next to me. I could have stopped this. But as I felt her lower body, steering my cock into position, as I felt the first grip of tight, volcanic flesh around it, it was that deep, half-crazed look. Confidence and desire in equal measure. I was transfixed.
+
+ 
+Guiding me inside of her, without hands, took some dexterity on her part. Once she had gotten there, however, all pretenses of dexterity were replaced with violence. She slammed down on my hips, with the force I could only expect from a Pokemon. Then she lifted herself up. Another slam. Then a third. A fourth, fifth, sixth. The position from which she took me was awkward, but that didn't stop her from filling the little room with the sound of hips on fuzzy hips. Her head lifted up, and she stared at a point on the wall in intense concentration. Spittle fell on my neck and chest. Other, hotter fluids slicked my crotch. It was primal and terrifying and yet
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+
+
+To hell with your sleep mode! Why am I even writing this? What am I supposed to even add?
+
+
+I held on to the Mightyena's front paws, as she rutted me. I could hear the noises that came out of my mouth, and they were far from what you would expect from a terrified victim. I fucking encouraged her. I told her how close I was to cumming. And she listened! As soon as I said that, she sat on my hips, and began to stir my cock around, in her. I could feel her powerful muscles, clenching and fluttering around me, trying to milk the prize out from my body.
+
+ 
+But it wasn't any of that that did it. No, I really do think it was the eyes.
+
+
+What happened next was chaotic and violent. I felt like I might pass out, as the orgasm overtook me. Waves of semen painted her insides, easily the biggest I had ever shot, while her greedy box pulled and tugged, trying to coax even more out with a force that nearly hurt. I felt jaws clamp down on my shoulder, but not deeply enough to break skin. I couldn't hear it, over the ragged breath coming out of my own mouth, but the rumbles against my skin were unmistakably her needy whimpers, as she rode out her own orgasm on top of me.
+
+
+And then, as suddenly as it happened, the room was silent. Subject Alpha picked her head up, giving the marks on my shoulder a few slow, almost apologetic licks. She pulled herself off of my body, with uncertain steps, and turned towards the door. I looked up to see her leave. She paused, in the doorway, to look back at me. Her sex gleamed in the moonlight, dripping both of our juices on the floor. She absolutely smiled at me, before she left.
+
+ 
+Once I was sure she was gone, I threw the door closed and sealed it. I still don't know what to make of this. I just had sex with a Pokemon. No. A Pokemon had sex with me. Threw me to the ground and used me like some kind of sex toy
+
+
+No. Need to stop. Getting hard, again, thinking about it. This whole situation is bad. There's still so much time in my employment contract. I could call in an emergency, try to get an evac, but could I do that without telling the Professor what happened?
+
+
+No. No, this needs to just go away. Tonight never happened. I'm never leaving this place without my whistler, again, and that's going to have to be the end of it. My career is at stake. If I can just make it to the end of the employment term, I can walk out of this with a nice good mark on my resume. I just have to make sure nobody ever finds out about this.
+
+
+Fuck, I'm tired. I'm just going to go to bed. Pretty sure sleeping isn't going to be a problem, after the night I've had.
+
+>COMMIT
+
+LOG COMMITTED
+>UNADO COMMIT
+
+INVALID COMMAND
+>UNDO COMMIT
+
+INVALID COMMAND
+>EDIT LAST LOG "Diary_TL;Personal_TL"
+
+COMMAND "EDIT LAST LOG" FORBIDDEN BY USER:LabAdmin
+
+DELETE LOG "Diary_TL;Personal_TL"
+
+COMMAND "DELETE LOG" FORBIDDEN BY USER: LabAdmin
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
+>RENAME LOG "Diary_TL;Personal_TL
+
+PLEASE ENTER THE NEW NAME OF LOG "Diary_TL"
+>Campfire_Recipes
+
+LOG WILL NOW BE NAMED "Campfire_Recipes;Personal_TL"; PLEASE CONFIRM
+>Y
+
+LOG "Diary_TL" RENAMED TO "Campfire_Recipes"
+
+THIS SYSTEM WILL ENTER SLEEP MODE IN ONE MINUTE
