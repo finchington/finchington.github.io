@@ -1,6 +1,10 @@
 .center {
   text-align: center;
 }
+header {
+  background-color: #ffbf80;
+  width: 80%;
+}
 body {
   background-image: url(https://finchington.github.io/images/backdrops/modern.jpg);
   background-size: 100%;
